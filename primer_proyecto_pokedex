@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+    <head>
+        <meta charset="utf-8">
+        <title>Ejemplo de pokemon desordenados</title>
+    </head>
+    <body>
+        <p>9 primeros pokemones de la pokedex</p>
+        <ol>
+            <li style="color: red;"> charmander_001 </li>
+            <li style="color: red;"> charmeleon_002 </li>
+            <li> charizard_003 </li>
+            <li> squirtle_004 </li>
+            <li> wartorltle_005 </li>
+            <li> blastoise_006 </li>
+            <li> bulbasaur_007</li>
+            <li> ivisaur_008 </li>
+            <li> venasaur_009 </li>
+        </ol>
+        <p><a
+            href="https://www.pokemon.com/es/pokedex/charmander" target="_blank"> charmander </a>
+                    informacion sobre charmander
+            </p>
+            <br>
+         <p><a
+            href="https://www.pokemon.com/es/pokedex/charmeleon" target="_blank"> charmeleon </a>
+                            informacion sobre charmeleon
+             </p>
+             <br>
+        <p><a
+            href="https://www.pokemon.com/es/pokedex/charizard" target="_blank"> charizard </a>
+            informacion sobre charizard
+             </p>
+             <br>
+         <p><a
+                href="https://www.pokemon.com/es/pokedex/squirtle" target="_blank"> squirtle </a>
+                        informacion sobre squirtle
+                </p>
+             <br>
+         <p><a
+                href="https://www.pokemon.com/es/pokedex/wartortle" target="_blank"> wartorltle </a>
+                                informacion sobre wartorltle
+                 </p>
+             <br>
+         <p><a
+                href="https://www.pokemon.com/es/pokedex/blastoise" target="_blank"> blastoise </a>
+                informacion sobre blastoise
+                 </p>
+             <br>
+         <p><a
+                 href="https://www.pokemon.com/es/pokedex/bulbasaur" target="_blank"> bulbasaur </a>
+                            informacion bulbasaur
+                    </p>
+            <br>
+         <p><a
+                 href="https://www.pokemon.com/es/pokedex/ivysaur" target="_blank"> ivisaur </a>
+                            informacion sobre ivisaur
+                     </p>
+             <br>
+        <p><a
+                href="https://www.pokemon.com/es/pokedex/venusaur" target="_blank"> venasaur </a>
+                    informacion sobre venasaur
+                     </p>
+            <br>
+         <p><a
+                href="https://www.youtube.com/watch?v=mCdA4bJAGGk&ab_channel=sweetblue." target="_blank"> lore/historia </a>
+                    lore de pokemon
+                     </p>
+    </body>
+</html>
